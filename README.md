@@ -58,8 +58,7 @@ Este projeto utiliza um modelo LSTM (Long Short-Term Memory) para prever o preç
 
 ## ⚙️ Configuração
 
-- Certifique-se de que o **MLflow** está configurado corretamente.
-- Configure um servidor **Prometheus** para monitorar as métricas.
+- A execução é realizada em ambiente local
 
 ---
 
